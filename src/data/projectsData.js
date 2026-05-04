@@ -50,7 +50,7 @@ export const projectsData = [
     image: "/img/Bienes Raices.webp",
     technologies: ["HTML5", "SASS", "JavaScript", "PHP", "MySQL"],
     icons: ["fa-html5", "fa-sass", "fa-js", "fa-php", "fa-database"],
-    demoUrl: "https://dilvoyu.nyc.dom.my.id/",
+    demoUrl: "https://bienesraices-phpmvc-geraahdz14.mnz.dom.my.id/",
     githubUrl: "https://github.com/GerardoARHernandez/BienesRaices_mvc_php",
     featured: true
   },
@@ -61,7 +61,7 @@ export const projectsData = [
     image: "/img/AppSalon.webp",
     technologies: ["HTML5", "SASS", "JavaScript", "PHP", "MySQL"],
     icons: ["fa-html5", "fa-sass", "fa-js", "fa-php", "fa-database"],
-    demoUrl: "http://lulguso.nyc.dom.my.id/",
+    demoUrl: "https://appsalon-geraahdz14.mnz.dom.my.id/",
     githubUrl: "https://github.com/GerardoARHernandez/AppSalon_MVC",
     featured: true,
     testCredentials: {  
